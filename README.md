@@ -8,9 +8,11 @@ Developers:
 - Dilki Taniya- ITBSC/2023/EA/WE/027
 - Nadun Hirudika- ITBSC/2023/EA/WE/024
 - SubanyaSigiri Jayasekara - ITBSC/2023/EA/WE/009
-  
 
-![Capture](https://github.com/user-attachments/assets/a68997e9-477a-4110-bbd9-83dc63b89fbb)
+ <!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+![Capture](https://github.com/user-attachments/assets/bfd0229a-bc01-44c6-b353-a4840b919b53)
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
