@@ -1,6 +1,15 @@
 # Online-Booking-System-for-Hotel
 Online-Booking-System-for-Hotel
 
+Developers:
+- Kaveesha Madushani- ITBSC/2023/EA/WE/007
+- Thakshila Chandrawansha- ITBSC/2023/EA/WE/017
+- Sumedha Madushan- ITBSC/2023/EA/WE/023
+- Dilki Taniya- ITBSC/2023/EA/WE/027
+- Nadun Hirudika- ITBSC/2023/EA/WE/024
+- SubanyaSigiri Jayasekara - ITBSC/2023/EA/WE/009
+  
+
 ![Capture](https://github.com/user-attachments/assets/a68997e9-477a-4110-bbd9-83dc63b89fbb)
 
 <!--horizontal divider(gradiant)-->
