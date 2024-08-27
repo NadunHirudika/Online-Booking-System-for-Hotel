@@ -1,5 +1,5 @@
 # Online-Booking-System-for-Hotel
-Online-Booking-System-for-Hotel
+1st year 2nd Semestor Group Project
 
 Developers:
 - Kaveesha Madushani- ITBSC/2023/EA/WE/007
@@ -22,7 +22,7 @@ Developers:
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Capture 3](https://github.com/user-attachments/assets/2ff4e9d2-2117-48c1-a699-afc1b8af0a90)
+![Capture 3](https://github.com/user-attachments/assets/6caf6b9d-b7e4-4bd0-8d31-52aa4c647e22)
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
