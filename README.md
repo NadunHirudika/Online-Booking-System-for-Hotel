@@ -1,5 +1,5 @@
 # Online-Booking-System-for-Hotel
-1st year 2nd Semestor Group Project
+1st year 2nd Semester Group Project..
 
 Developers:
 - Kaveesha Madushani- ITBSC/2023/EA/WE/007
